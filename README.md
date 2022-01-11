@@ -1,6 +1,6 @@
 # End-to-End-ML-model-for-estimating_house_prices!
 
-[BHP_website](https://user-images.githubusercontent.com/52509297/148941664-de301f36-417d-40bf-b712-a9fef68f5c98.png)
+![alt text](https://user-images.githubusercontent.com/52509297/148941664-de301f36-417d-40bf-b712-a9fef68f5c98.png)
 
 
 This data science project goes through an End-to-End process of building a real estate price prediction website :- 
